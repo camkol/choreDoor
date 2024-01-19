@@ -8,4 +8,4 @@
 
 ## Notes
 
--Improved responsiveness
+- Improved responsiveness
