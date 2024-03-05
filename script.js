@@ -4,14 +4,10 @@ let doorImage2 = document.getElementById("door2");
 let doorImage3 = document.getElementById("door3");
 let startButton = document.getElementById("start");
 
-let botDoorPath =
-  "https://content.codecademy.com/projects/chore-door/images/robot.svg";
-let beachDoorPath =
-  "https://content.codecademy.com/projects/chore-door/images/beach.svg";
-let spaceDoorPath =
-  "https://content.codecademy.com/projects/chore-door/images/space.svg";
-let closedDoorPath =
-  "https://content.codecademy.com/projects/chore-door/images/closed_door.svg";
+let botDoorPath = "images/robot.svg";
+let beachDoorPath = "images/beach.svg";
+let spaceDoorPath = "images/space.svg";
+let closedDoorPath = "images/closed_door.svg";
 
 let numClosedDoors = 3;
 let openDoor1;
